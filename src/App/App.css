@@ -22,3 +22,12 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.links {
+  margin-top: 50px;
+}
+
+.contacts {
+  padding-left: 50px;
+  padding-right: 50px;
+}
